@@ -8,5 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "devDependencies": {
+    "tailwindcss": "^3.x.x"
+  }
 }
