@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "tailwindcss -i ./src/input.css -o ./src/output.css --minify, npm install -D tailwindcss"
+    "build": "tailwindcss -i ./src/input.css -o ./src/output.css --minify"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^4.1.11"
+  }
 }
